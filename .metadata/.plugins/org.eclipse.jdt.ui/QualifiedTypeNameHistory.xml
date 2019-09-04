@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.automation.iSettings.IBrowserSetting"/>
+<fullyQualifiedTypeName name="com.automation.iSettings.IWebDriverSettings"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="com.automation.settings.GridHost"/>
+<fullyQualifiedTypeName name="com.automation.settings.WebDriverType"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="com.automation.iSettings.IWebDriverSettingsReader"/>
+<fullyQualifiedTypeName name="com.automation.iSettings.WebDriverSettings"/>
+<fullyQualifiedTypeName name="com.automation.webdriver.WebDriverConfiguration"/>
+<fullyQualifiedTypeName name="com.automation.webdriver.WebDriverInstance"/>
+<fullyQualifiedTypeName name="com.automation.settings.BrowserSettings"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="Arrays"/>
+</qualifiedTypeNameHistroy>

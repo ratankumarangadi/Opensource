@@ -1,0 +1,3 @@
+com.test.outdir=/test-output
+com.test.useProjectJar=false
+eclipse.preferences.version=1

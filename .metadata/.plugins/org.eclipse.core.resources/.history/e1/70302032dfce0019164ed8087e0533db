@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+public class NewTest1 {
+
+	public static void main(String[] args){
+		
+		int[] a = new int[]{1,2,3,4,5};
+		
+		ArrayList<String> lst;
+		lst = 
+	}
+}

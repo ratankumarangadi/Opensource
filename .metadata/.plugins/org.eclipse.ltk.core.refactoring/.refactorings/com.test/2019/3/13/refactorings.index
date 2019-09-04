@@ -1,0 +1,21 @@
+1553670814646	Rename type 'BrowserSetting'
+1553670982516	Rename type 'IWebDriverDetails'
+1553671242745	Delete element
+1553671320948	Delete element
+1553671409934	Rename type 'Waits'
+1553671683798	Delete element
+1553680355907	Rename package 'com.autiomation.events'
+1553680379052	Move compilation unit
+1553680395471	Move compilation units
+1553680546946	Move compilation unit
+1553680550900	Move compilation unit
+1553680558377	Move compilation unit
+1553681200904	Rename package 'com.automation.settings'
+1553681527952	Rename type 'settings'
+1553681743778	Rename type 'ConfigReader'
+1553682033938	Delete element
+1553682478630	Rename type 'IWebDriverSettings'
+1553682653648	Move compilation unit
+1553683112996	Delete element
+1553683310053	Rename type 'WebDriverSettings'
+1553684446518	Delete element

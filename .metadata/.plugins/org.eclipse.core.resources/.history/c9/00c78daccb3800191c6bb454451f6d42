@@ -1,0 +1,8 @@
+package com.automation.webdriver;
+
+public class TestSettings {
+
+	public void getDriverSettings(){
+		
+	}
+}

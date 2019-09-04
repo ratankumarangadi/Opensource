@@ -1,0 +1,61 @@
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Arrays;
+public class Arrays1 {
+
+	int[] array1;
+	int [] array2;
+	public void fillArray(){
+		array1 = new int[10];
+		array2= new int [10];
+		for(int i=0; i<10; i++){
+			array1[i]=i;
+			array2[i] = i;
+			
+		}
+		array2[array2.length-1]=100;
+	}
+	
+	public void findMissing(){
+		boolean found;
+		for(int i=0; i<array1.length; i++){
+			found=false;
+			for(int j=0; j<array2.length; j++){
+				if(array1[i] == array2[j]){
+					found =true;
+					System.out.println(array1[i] + " is found");
+					break;
+				}
+				
+				 if(j==array2.length-1){
+					 System.out.println(array1[i] + " is missing");
+					 break;
+				 }
+			}
+		   if(!found){
+			   break;
+		   }
+		}
+	}
+	
+	public void findMissinbWithArraysAsList(){
+		List<Integer> list = new ArrayList(Arrays.asList(array2));
+		for(int i=0; i< array1.length; i++){
+			if(list.contains(array1[i]))
+			{
+				System.out.println("Found " + array1[i]);
+			} else
+			{
+				System.out.println("Could not find " + array2[i]);
+			}
+		}
+	}
+	
+	public static void main(String[] args)
+	{
+	   Arrays1 a = new Arrays1();
+	   a.fillArray();
+	   a.findMissing();
+	//   a.findMissinbWithArraysAsList();
+	}
+}

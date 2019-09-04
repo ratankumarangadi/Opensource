@@ -1,0 +1,11 @@
+
+import java.
+public class Test1 {
+
+	public static void main(String[] args){
+		String a[] = new String[] { "A", "B", "C", "D" }; 
+		  
+        // getting the list view of Array 
+        List<String> list = Arrays.asList(a); 
+	}
+}

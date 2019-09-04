@@ -1,0 +1,10 @@
+package com.automation.webdriver;
+
+public class TestSettings {
+
+	public boolean isDistributedExecution(){
+		
+	}
+	
+	
+}
